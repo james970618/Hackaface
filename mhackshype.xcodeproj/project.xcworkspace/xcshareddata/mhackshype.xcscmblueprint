@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72021356164D04C93FBA97144026C7E5DAADB963",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7C16E61D8778BAFAAB858583C3B42A17C53EF7C" : 9223372036854775807,
+    "A20D666FF4B08EFE53F147818C2D4D17E2242912" : 9223372036854775807,
+    "72021356164D04C93FBA97144026C7E5DAADB963" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6525F716-523D-4CDE-9BA1-701942A71DA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7C16E61D8778BAFAAB858583C3B42A17C53EF7C" : "..\/..\/..\/..\/..\/facebook-sdk-swift",
+    "A20D666FF4B08EFE53F147818C2D4D17E2242912" : "..\/..\/..\/..\/..\/facebook-sdk-swift\/Carthage\/Checkouts\/facebook-ios-sdk",
+    "72021356164D04C93FBA97144026C7E5DAADB963" : "mhackshype\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mhackshype",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mhackshype.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yifjiang\/Hackaface",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72021356164D04C93FBA97144026C7E5DAADB963"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/facebook\/facebook-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A20D666FF4B08EFE53F147818C2D4D17E2242912"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/facebook\/facebook-sdk-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7C16E61D8778BAFAAB858583C3B42A17C53EF7C"
+    }
+  ]
+}
